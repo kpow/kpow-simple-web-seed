@@ -1,0 +1,13 @@
+{
+  "name": "project",
+  "private": true,
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "jquery.transit": "~0.9.12",
+    "icanhaz": "~0.10.3",
+    "pathjs": "*",
+    "bootstrap": "~3.3.0",
+    "mobile-detect": "~0.4.2"
+  },
+  "devDependencies": {}
+}
